@@ -1,0 +1,34 @@
+ทฤษฎีที่เกี่ยวข้อง
+- BPSS model
+	- Biological (physical) - โรค อาการป่วย
+	- Psychological (mental) - ความรู้สึก ความคิด
+	- Social - คนสำคัญรอบๆ ตัว
+	- Spiritual - คุณค่าในตัวเอง เป้าหมายชีวิต ความเชื่อ
+- Disease != Illness
+	- disease
+		- กระทบต่อร่างกาย
+		- fixed
+		- รักษาด้วย medical science
+		- types of patient
+			- disease-free (risk-free/at risk)
+			- acute
+			- chronic
+			- terminal
+	- illness
+		- กระทบต่อตัวผู้ป่วย ie. ต่อจิตใจ ต่อการใช้ชีวิต ต่อคนรอบตัว
+		- individualised
+		- รักษาด้วย empathy
+	- IFFE model
+		- Idea - มุมมองต่อโรค
+		- Feeling - มุมมองด้านผลกระทบต่ออารมณ์ ความรู้สึก
+		- Function - มุมมองด้านผลกระทบต่อการใช้ชีวิต
+		- Expectation - สิ่งที่คาดหวังจากการรักษา
+- Comprehensive Healthcare (Goals of Healthcare)
+	- health promotion
+	- disease prevention
+	- treatment
+	- rehabilitation
+- Level of Care (ปัจจัยที่มีผลกระทบ)
+	- individual - ข้อมูลพื้นฐาน, [[demographic]], background
+	- family - ลักษณะครอบครัว, ที่พึ่งครอบครัว
+	- community and public health  - แหล่งที่พึ่ง,​ workspace, culture, health services

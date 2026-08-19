@@ -1,0 +1,1 @@
+connect 3' and 5' of two nucleotide fractments

@@ -1,0 +1,9 @@
+- megaloblastic anemia and hypersegmented leukocyte
+	- [[folate (B9) deficiency]]
+		- increased homocysteine
+		- no nerve damage
+	- [[cobalamin (B12) deficiency]]
+		- increased methylmelonic acid (MMA)
+		- nerve damage, numbness, tingling
+- hypochromic and microcytic anemia (look like iron deficiency)
+	- [[pyridoxine (B6) deficiency]]

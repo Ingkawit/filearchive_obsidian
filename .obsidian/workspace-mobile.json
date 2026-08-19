@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "b46794a015e5ed4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "08aa1e5f8fb19996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "657d3c5df18caaac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "curriculum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "curriculum"
+            }
+          },
+          {
+            "id": "0d68a080dc8113af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "มุมมองกราฟ"
+            }
+          },
+          {
+            "id": "649bf52c24a1ae4d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "มุมมองกราฟ"
+            }
+          },
+          {
+            "id": "de1f4743ab4f4002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "transcription.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "transcription"
+            }
+          },
+          {
+            "id": "722f0d4968abbe0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNA replication.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNA replication"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c601edc6a2e875c7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b89eeb493212866a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "File explorer"
+        }
+      },
+      {
+        "id": "c1bb589ac8f35718",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "ค้นหา"
+        }
+      },
+      {
+        "id": "44464331f079d298",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "แท็ก"
+        }
+      },
+      {
+        "id": "0dbbcf4ec2898bf8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "คุณสมบัติทั้งหมด"
+        }
+      },
+      {
+        "id": "da513ed5e1426f9a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "บุ๊กมาร์ก"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b03c067544d0451d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bb6faeec52a3d29a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DNA damage.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "แบ็คลิงค์"
+        }
+      },
+      {
+        "id": "e14d517802d02101",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "reflective learning.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "ลิงค์ขาออก"
+        }
+      },
+      {
+        "id": "a75813ff8e1dfb0e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "reflective learning.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "โครงเรื่อง"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "canvas:สร้างผืนผ้าใบใหม่": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
+      "bases:สร้างฐานใหม่": false
+    }
+  },
+  "active": "de1f4743ab4f4002",
+  "lastOpenFiles": [
+    "block1.1 cell bio med chem/gene expression.md",
+    "transcription.md",
+    "DNA repair.md",
+    "DNA mutation.md",
+    "non-homologous end joining.md",
+    "base excision repair.md",
+    "SOS repair.md",
+    "mismatch repair.md",
+    "DNA damage.md",
+    "cystic fibrosis.md",
+    "CFTR protein channel.md",
+    "DNA replication.md",
+    "acyclovir.md",
+    "single-strand DNA binding protein.md",
+    "topoisomerase.md",
+    "helicase.md",
+    "homologous recombination.md",
+    "double-strand break.md",
+    "chromosome.md",
+    "accessory proteins.md",
+    "cytoskeleton.md",
+    "microtubule.md",
+    "motor protein.md",
+    "intermediate filament.md",
+    "microfilmament.md",
+    "actin.md",
+    "medical profession",
+    "ยังไม่ได้ตั้งชื่อ"
+  ]
+}

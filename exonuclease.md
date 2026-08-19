@@ -1,0 +1,1 @@
+enzyme that removes nucleotides one at a time from th ends

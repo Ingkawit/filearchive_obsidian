@@ -1,0 +1,1 @@
+structure under nuclear envelope that provides mechanical strength

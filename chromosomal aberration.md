@@ -1,0 +1,12 @@
+- deletion eg.
+	- [[Cri Du Chat syndrome]]
+- inversion 
+	- often no disease
+- duplication eg.
+	- trisomy 21 - [[Down syndrome]]
+	- trisomy 18 - [[Edwards syndrome]]
+	- trisomy 13 - [[Patau syndrome]]
+	- XXY - [[Klinefelter syndrome]]
+	- X0 - [[Turner syndrome]]
+- translocation
+	- potential cause of trisomies

@@ -1,0 +1,12 @@
+- microtubule-based
+	- swimming eg. cilia, flagella
+- actin-based
+	- crawling - with focal adhesion 
+		- actin polymerization at leading edge, forming lamellipodium
+		- myosin contraction create moving force
+		- adhesion
+		- Arp2/3 helps branch actin filament
+	- crawling-like - no focal adhesion eg. emoeboid movement
+		- no real actin polymerization
+	
+	- wound healing, immune response, development, cancer cell metastasis (malignant growth)

@@ -1,0 +1,1 @@
+[[proton-K ATPase]] ([[antiport]]) pumps 1 proton into stomach lumen in exchange with taking back 1 potassium 

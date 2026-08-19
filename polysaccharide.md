@@ -1,0 +1,10 @@
+- [[glycogen]] 
+	- very long, highly branched polymer of glucose (alpha)
+- starch
+	- polymer of glucose (alpha) found in plants
+		- amylose - unbranched
+		- amylopectin - branched
+- glycan
+	- proteoglycan - mainly polysaccharide called glycoaminoglycan with core protein atteched
+	- [[glycoprotein]] - main protein with short branched polysaccharide
+	- [[lipoprotein]]

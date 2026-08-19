@@ -1,0 +1,3 @@
+- colchicine - prevents polymerization
+- taxol - prevents depolymerization (spindle fiber can't shorten)
+	- creates taxol-induced microtubule that is *very stable*

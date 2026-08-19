@@ -1,0 +1,35 @@
+- irreversible inhibition
+	- [[inhibitor]] permanently binds to enzyme via covalent bond
+		- organophosphorus react with OH in serine -> blocks ACh esterase
+		- iodoacetamide react with SH in cysteine
+		- penicilin react with serine in PBP enzyme -> inhibit cell wall synthsis
+- reversible inhibition
+	- [[competitive inhibition]]
+		- structurally resembles substrate
+		- binds to enzyme at active site
+		- more substrate can overcome
+		- effects
+			- Vmax remains the same (at some point substrate will overcome)
+			- Km increases (less affinity to substrate)
+		- examples
+			- *statin* inhibits HMG-coA resductase
+			- *Zanamivir*, neuramidase inhibitor for influenza
+	-  [[uncompetitive inhibition]]
+		- not structurally similar to substrate
+		- binds to ES complex (cause equilibrium shift)
+		- more substrate cannot overcome
+		- effects
+			- Vmax decreases (fewer active ES complexes)
+			- Km decreases (ES becomes ESI complex, shifting ES equilibrium, enzyme appear to have more affinity)
+		- examples
+			- *Arsenate* as G3PDH inhibitor
+	- mixed inhibition
+		- [[noncompetitive inhibition]]
+			- not structurally similar to substrate
+			- binds to E at non active-site (doesn't cause equilibrium shift)
+			- more substrate cannot overcome
+			- effects
+				- Vmax decreases (fewer active ES complexes)
+				- Km remain the same (doesn't affect affinity)
+			- examples:
+				- *Oxypurinol* inhibits xanthine oxidase(purine degradation)

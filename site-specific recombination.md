@@ -1,0 +1,2 @@
+- bacteria move in and out of host chromosome
+- circular DNA can integrate into host

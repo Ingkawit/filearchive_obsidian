@@ -1,0 +1,3 @@
+- Phalloidin binds adjacent actin subunits in F-actin (one strand), preventing actin depolymerization
+- Cytochalasins binds to plus end of F-actin, preventing polymerization
+- Latrunculin binds to G-actin, preventing polymerization

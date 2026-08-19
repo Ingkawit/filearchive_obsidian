@@ -1,0 +1,4 @@
+- cutaneous flushing (vasodilation)
+	- red, warm, itchy skin
+- stomach issues
+- dizziness
