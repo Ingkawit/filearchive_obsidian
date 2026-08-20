@@ -5,6 +5,7 @@
 		- amylose - unbranched
 		- amylopectin - branched
 - glycan
-	- proteoglycan - mainly polysaccharide called glycoaminoglycan with core protein atteched
-	- [[glycoprotein]] - main protein with short branched polysaccharide
+	- [[proteoglycan]] - small protein attached with many GAGs
+	- [[glycoaminoglycan]] (GAGs) - long, straight sugar chain 
+	- [[glycoprotein]] - large protein attached to short, branched sugar chain
 	- [[lipoprotein]]

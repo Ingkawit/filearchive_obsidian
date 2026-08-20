@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transcription.md",
+                "file": "DNA transcription.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "transcription"
+              "title": "DNA transcription"
             }
           },
           {
@@ -176,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DNA damage.md",
+            "file": "DNA transcription.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -234,8 +234,14 @@
   },
   "active": "de1f4743ab4f4002",
   "lastOpenFiles": [
+    "acyclovir.md",
+    "DNA transcription.md",
+    "trans acting factors.md",
+    "cis regulatory elements.md",
+    "transcription factor.md",
+    "RNA polymerase.md",
+    "promoter.md",
     "block1.1 cell bio med chem/gene expression.md",
-    "transcription.md",
     "DNA repair.md",
     "DNA mutation.md",
     "non-homologous end joining.md",
@@ -246,7 +252,6 @@
     "cystic fibrosis.md",
     "CFTR protein channel.md",
     "DNA replication.md",
-    "acyclovir.md",
     "single-strand DNA binding protein.md",
     "topoisomerase.md",
     "helicase.md",
@@ -255,11 +260,6 @@
     "chromosome.md",
     "accessory proteins.md",
     "cytoskeleton.md",
-    "microtubule.md",
-    "motor protein.md",
-    "intermediate filament.md",
-    "microfilmament.md",
-    "actin.md",
     "medical profession",
     "ยังไม่ได้ตั้งชื่อ"
   ]

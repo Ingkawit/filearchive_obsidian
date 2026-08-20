@@ -7,7 +7,7 @@ gene expression II
 - [[DNA mutation]]
 - [[DNA repair]]
 gene expression III
-- [[transcription]]
+- [[DNA transcription]]
 - [[DNA processing]]
 gene expression IV
 - [[translation]]

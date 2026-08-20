@@ -11,3 +11,4 @@ types:
 - [[intermediate filament]]
 
 works with [[motor protein ]] and [[accessory proteins ]]
+

@@ -2,7 +2,7 @@
 - contains [[chromatin]]
 - [[nucleolus]]
 functions:
-- [[transcription]]
+- [[DNA transcription]]
 - [[post translational modification]]
 - transport [[RNA]] into cytoplasm via nuclear pore
 - [[DNA replication]]
