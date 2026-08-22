@@ -1,0 +1,1 @@
+[[proteoglycan]] found in [[extracellular matrix]]

@@ -1,0 +1,1 @@
+accumulation of VLCFA because of impaired beta-oxidation in peroxisome 

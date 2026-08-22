@@ -7,11 +7,11 @@ gene expression II
 - [[DNA mutation]]
 - [[DNA repair]]
 gene expression III
-- [[DNA transcription]]
+- [[transcription]]
 - [[DNA processing]]
 gene expression IV
 - [[translation]]
-- [[post translational modification]]
+- [[post-transcriptional processing]]
 - [[protein degradation]]
 gene expression V
-- [[control of gene expression and ]]
+- [[control of gene expression]]

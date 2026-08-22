@@ -15,3 +15,5 @@ found in
 functions:
 - translate RNA and protein synthesis
 - protein folding
+
+[[translation]]

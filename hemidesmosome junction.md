@@ -1,1 +1,1 @@
-[[intermediate filament]]
+keratin [[intermediate filament]]

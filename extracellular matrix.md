@@ -6,7 +6,7 @@ components:
 - [[proteoglycan]]
 - [[glycoaminoglycan]] (GAGs)
 - glycoproteins
-	- laminin
+	- [[laminin]]
 	- [[integrin]]
 
 specialized extracellular matrix under epithelial called [[basal lamina]]

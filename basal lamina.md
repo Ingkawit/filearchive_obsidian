@@ -1,4 +1,7 @@
-- contains type IV collagen
+- contains 
+	- type IV collagen
+	- laminin
+	- 
 - scaffold tissue regeneration 
 
 epidermolysis bullosa (โรคดักแก้)

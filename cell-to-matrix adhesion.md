@@ -1,4 +1,6 @@
 
+[[cell-to-matrix junction]]
+
 [[connective tissue]]
 
 basement membrane - specialized sheet of extracellular matrix

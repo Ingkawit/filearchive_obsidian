@@ -2,7 +2,7 @@
 key proteins: 
 - claudins
 - occludins
-- zonula occludens
+- zonula occludens (connect to [[tight junction]])
 function: tightly seal epithelial cells
 found especially in 
 - [[epithelial cell]] (eg. stomach, instestines)

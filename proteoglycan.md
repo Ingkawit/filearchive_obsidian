@@ -1,6 +1,6 @@
-small protein attached with many GAGs
+core protein attached with many GAGs
 - negative charged
 - can trap water to form gel
 example:
-- aggrecan - found in cartilage
+- aggrecan - found in cartilage, sinovial fluid
 	- contain GAGs: chondroitin, keratan sulfate 
