@@ -1,0 +1,1 @@
+consists of substrate binding pocket where phosphate is transferred to substrate

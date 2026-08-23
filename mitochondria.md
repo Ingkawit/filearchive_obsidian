@@ -7,7 +7,7 @@ Key components
 	- where [[Krebs Cycle]] happens
 ---
 - involved in intrinsic path way of [[apoptosis]]
-	- mitochondria releases Cytochrome C
+	- mitochondria releases cytochrome C
 - has its own DNA
 	- circular DNA
 	- only inherited from mother (egg cell)

@@ -2,8 +2,8 @@
 functions
 - eliminate waste eg. proteins, nucleic acid, carbs, lipids and recycle their components
 - destroy infectious bacteria and fungus
-	- autophagy (digest material from inside cell)
-	- endocytosis (digest material from outside cell)
+	- [[autophagy]] (digest material from inside cell)
+	- [[endocytosis]] (digest material from outside cell)
 lysosomal enzymes optimal in acidic condition (pH 5)
 ---
 how to get lysosomal hydrolases to lysosome
