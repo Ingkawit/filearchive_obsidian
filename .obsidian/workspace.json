@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "molecular technology.md",
+                "file": "protein trafficking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "molecular technology"
+              "title": "protein trafficking"
             }
           }
         ],
@@ -255,8 +255,8 @@
   },
   "active": "81c2065eceb6cd43",
   "lastOpenFiles": [
-    "_files/molectech1.jpeg",
     "molecular technology.md",
+    "_files/molectech1.jpeg",
     "Excalidraw/Drawing 2026-08-25 20.12.10.excalidraw.md",
     "accessory proteins.md",
     "polymerase chain reaction.md",
