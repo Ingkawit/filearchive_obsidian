@@ -1,2 +1,3 @@
-[[mitosis]]
-[[meiosis]]
+cell division
+- [[mitosis]] 
+- [[meiosis]]

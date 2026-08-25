@@ -1,11 +1,22 @@
 - [[glycogen]] 
 	- very long, highly branched polymer of glucose (alpha)
-- starch
+- [[starch]]
 	- polymer of glucose (alpha) found in plants
 		- amylose - unbranched
 		- amylopectin - branched
+- [[cellulose]]
 - glycan
+	-  [[glycoaminoglycan]] (GAGs) - long, straight sugar chain 
+- glycoconjugate
 	- [[proteoglycan]] - small protein attached with many GAGs
-	- [[glycoaminoglycan]] (GAGs) - long, straight sugar chain 
 	- [[glycoprotein]] - large protein attached to short, branched sugar chain
-	- [[lipoprotein]]
+		- non-enzymatic glycated proteins eg. used to track blood glucose levels
+			- glycated albumin
+			- hemoglobin A1c (HbA1c)
+		- enzymatic glycation (glycosylation)
+			- N-linked glycosylation - targets 
+	- [[glycolipid]] - lipid attached to small carbohydrate
+
+polymer
+- homopolysaccharide eg. [[starch]], glycogen, cellulose
+- heteropolysaccharide eg. GAGs

@@ -12,7 +12,7 @@ lac operon (for lactose digestion):
 	- LacA -> transacetylase
 
 - no lactose - lac repressor binds to operator -> no transcription
-- lactose present - lac repressor doesn't bind to operator -> transcription
+- lactose present - allolactose binds to repressor -> repressor doesn't bind to operator -> transcription can occur
 - **no glucose (high cAMP) but lactose present (rely only on lactose)** - CAP with cAMP binds to CAP site -> more transcription
 - **glucose present (low cAMP) and lactose present (doesn't need lactose)** - no CAMP -> less transciption (called **catabolite repression**)
 

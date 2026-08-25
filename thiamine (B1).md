@@ -1,6 +1,6 @@
 found in whole grains, cereal, meat
 
-thiamin di(pyro)phosphate as coenzyme in:
+thiamine di(pyro)phosphate as coenzyme in:
 - [[pyruvate dehydrogenase]]
 - [[alpha-ketoglutarate dehydrogenase]] 
 - branched-chain keto-acid dehydrogenase

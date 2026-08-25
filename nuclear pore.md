@@ -1,7 +1,7 @@
 made of nucleoporin proteins
 - membrane ring protein
 - scaffold portein
-- channel protein
+- channel protein - F,G amino acid repeat domain (low complexity)
 
-- cytosolic fibril
-- nuclear basket
+- cytosolic fibril (cytoplasm side)
+- nuclear basket (nucleus side) 

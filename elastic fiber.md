@@ -6,3 +6,4 @@ malfunction:
 	- aorta prone to rupture
 	- retinal detachment
 	- abnormal limb length
+	- joint hyperextension

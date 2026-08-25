@@ -3,7 +3,7 @@ interphase
 - ==---G1 checkpoint (favorable environment?, DNA ready?, DNA damaged?)==
 - **S** - DNA replication, centrosome starts duplicating
 - **G2** 
-- ==---G2 checkpoint (all DNA replicated?, DNA ready?)==
+- ==---G2 checkpoint (all DNA replicated?, DNA ready?, DNA damaged?)==
 mitotic phase
 - **prophase**
 	- intact nuclear envelope, condensing chromosome
@@ -35,16 +35,16 @@ cell cycle regulatory proteins
 	- cyclin binds to CDK to partially activate
 	- CDK-activating kinase (CAK) phosphorylates cyclin-CDK complexes to fully activate
 		* there can be '*inhibitory phosphate*' that will deactivate if phosphorylated (by Wee1 kinase)
-	* CDK inhibitor (p16,p21,p27) bind to cyclin-CDK to inhibit -> proteolysis (to destroy cyclin)
+	* CDK inhibitor (p16,p21,p27) bind to cyclin-CDK to inhibit -> ubiquitylation and proteolysis (to destroy cyclin)
 
-| phase                     | cyclin | CDK       |                                                                                                                                            |
-| ------------------------- | ------ | --------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| G1                        | D      | CDK4,CDK6 | phosphorylation of Rb protein, tell cell prepare to divide                                                                                 |
-| G1-S                      | E      | CDK2      | futher phosphorylation of [[Rb protein]] releases [[E2F transcription factor]] , trigger expression of enzymes to copy DNA                 |
-| during S                  | A      | CDK2      | prevent DNA from being copied twice                                                                                                        |
-| start of M                | B      | CDK1      | [[Wee1 kinase]] (inhibitory phosphate) vs [[Cdc25 phosphatase]] (remove inhibitory phosphate)                                              |
-|                           |        |           |                                                                                                                                            |
-| M (metaphase to anaphase) | -      | -         | [[anaphase-promoting complex/cyclosome]] (APC/C) binds to [[Cdc20 co-activator]] , act as ubiquitin ligase to destroy cell cycle inhibitor |
+| phase                     | cyclin          | CDK       |                                                                                                                                                                    |
+| ------------------------- | --------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| G1                        | D (G1-cyclin)   | CDK4,CDK6 | phosphorylation of Rb protein, tell cell prepare for division                                                                                                      |
+| G1-S                      | E (G1/S-cyclin) | CDK2      | futher phosphorylation of [[Rb protein]] releases [[E2F transcription factor]] , trigger expression of enzymes to copy DNA                                         |
+| during S                  | A (S-cyclin)    | CDK2      | prevent DNA from being copied twice                                                                                                                                |
+| start of M                | B (M-cyclin)    | CDK1      | [[Wee1 kinase]] (inhibitory phosphate) vs [[Cdc25 phosphatase]] (remove inhibitory phosphate)                                                                      |
+|                           |                 |           |                                                                                                                                                                    |
+| M (metaphase to anaphase) | -               | -         | [[anaphase-promoting complex/cyclosome]] (APC/C) binds to [[Cdc20 co-activator]] , act as ubiquitin ligase to destroy inhibitor -> activate chromosome separation  |
 
 
 | oncogenic proteins | tumor suppressor proteins |
@@ -54,7 +54,7 @@ cell cycle regulatory proteins
 | CAK                | Rb protein                |
 | Cdc25 phosphatase  | p53                       |
 | E2F                | securin                   |
-| APC + Cdc20        |                           |
+| APC/C + Cdc20      |                           |
 | separase           |                           |
 | SCF                |                           |
 | Myc                |                           |

@@ -13,7 +13,7 @@ eukaryote
 		- silencer -far upstream or downstream
 	- trans acting factors (protein)
 		- [[transcription factor]]
-	- chromatin condesion
+	- chromatin condensation 
 		- [[heterochromatin]] - deactivated
 		- [[euchromatin]]
 	- DNA modification
@@ -23,13 +23,13 @@ eukaryote
 		- differential processing
 			- poly A site selection eg. determines membrane IgM or secreted IgM  
 			- splice site determination eg. sex determination in *Drosophila* (แมลงหวี่)
-		- RNA editing eg. apo-B pre-mRNA
+		- RNA editing eg. apoB-48, apoB-100
 	- transport
 	- mRNA degradation
-		- eg. **transferrin** mRNA (for iron uptake) will degrade if high iron
+		- eg. **transferrin** mRNA (for iron uptake) will degrade if high iron,
 			active IRE-BP binds at 3' region to prevents degradation if low iron
 	- translation 
-		- eg. **ferritin** protein (for removing iron) will be translated if high iron
+		- eg. **ferritin** protein (for removing iron) will be translated if high iron,
 			active IRE-BP binds at 5' region to prevents translation if low iron
 
-- [[epigenetics]]
+- [[epigenetics]] eg. DNA methylation

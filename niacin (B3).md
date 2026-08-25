@@ -4,10 +4,10 @@ or nicotinic acid
 found in cereal, diary, corn (niacytin - bound form)
 
 part of coenzymes:
-- [[nicotinamide adenine dinucleotide (NAD)]]
+- [[NADH]] nicotinamide adenine dinucleotide 
 	- dehydrogenase
 	- electron transport system
-- [[nicotinamide adenine dinucleotide phosphate (NADP)]]
+- [[NADPH]] nicotinamide adenine dinucleotide phosphate 
 	- fatty acid synthesis
 	- cholesterol synthesis
 	- non essential amino acid synthesis

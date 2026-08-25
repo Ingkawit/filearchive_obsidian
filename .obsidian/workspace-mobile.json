@@ -8,61 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "657d3c5df18caaac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "endocytosis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "endocytosis"
-            }
-          },
-          {
             "id": "0d68a080dc8113af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golgi apparatus.md",
+                "file": "translation.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Golgi apparatus"
-            }
-          },
-          {
-            "id": "649bf52c24a1ae4d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "มุมมองกราฟ"
+              "title": "translation"
             }
           },
           {
             "id": "de1f4743ab4f4002",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "meiosis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "แท็บใหม่"
+              "title": "meiosis"
+            }
+          },
+          {
+            "id": "bca8ead03e01504f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-25 09.48.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-25 09.48.31.excalidraw"
             }
           },
           {
@@ -85,29 +67,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pantothenic acid (B5) deficiency.md",
+                "file": "protein trafficking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pantothenic acid (B5) deficiency"
+              "title": "protein trafficking"
             }
           },
           {
-            "id": "2446dc561b16a26e",
+            "id": "391900041e3e6a20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operon.md",
+                "file": "molecular technology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "operon"
+              "title": "molecular technology"
+            }
+          },
+          {
+            "id": "0636da143bdca05e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "แท็บใหม่"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -137,7 +130,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "pcs",
+            "query": "apc/",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -203,7 +196,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DNA mutation.md",
+            "file": "molecular technology.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -256,38 +249,51 @@
       "daily-notes:เปิดโน้ตของวันนี้": false,
       "templates:แทรกเทมเพลต": false,
       "command-palette:เปิดกระดานคำสั่ง": false,
-      "bases:สร้างฐานใหม่": false
+      "bases:สร้างฐานใหม่": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "657d3c5df18caaac",
+  "active": "391900041e3e6a20",
   "lastOpenFiles": [
-    "pyridoxine (B6).md",
-    "DNA repair.md",
-    "Golgi apparatus.md",
-    "peroxisome.md",
-    "Zellweger syndrome.md",
-    "DNA mutation.md",
-    "translation.md",
-    "transcription.md",
-    "post-transcriptional processing.md",
-    "anemia from B vitamins deficiency.md",
-    "cobalamin (B12) deficiency.md",
-    "megaloblastic anemia.md",
-    "folate (B9) deficiency.md",
-    "folate (B9).md",
-    "operon.md",
-    "cell adhesion.md",
-    "cis regulatory elements.md",
-    "cell-to-matrix adhesion.md",
-    "cell-to-matrix junction.md",
-    "hemidesmosome junction.md",
-    "cell-to-cell adhesion.md",
-    "cell-to-cell junction.md",
-    "tight junction.md",
-    "adherens junction.md",
-    "basal lamina.md",
-    "extracellular matrix.md",
-    "medical profession",
-    "ยังไม่ได้ตั้งชื่อ"
+    "IMG_4753.jpeg",
+    "Excalidraw/all metabolism pathway.md",
+    "_files/FullSubwayMap_V1023_Web.pdf",
+    "_files",
+    "files",
+    "FullSubwayMap_V1023_Web.pdf",
+    "Excalidraw/Drawing 2026-08-25 09.48.31.excalidraw.md",
+    "meiosis.md",
+    "cell cycle.md",
+    "mitosis.md",
+    "G-protein.md",
+    "Ink/Drawing/2026.8.25 - 9.28am.svg",
+    "signaling enzyme.md",
+    "kinase.md",
+    "cell signaling.md",
+    "signaling mediator.md",
+    "signaling molecule.md",
+    "control of gene expression.md",
+    "nuclear pore transport.md",
+    "fatty acid.md",
+    "protein trafficking.md",
+    "protein degradation.md",
+    "motor protein.md",
+    "Ink/Drawing/2026.8.24 - 14.02pm.svg",
+    "Ink/Drawing/2026.8.24 - 13.50pm.svg",
+    "Ink/Drawing",
+    "Ink",
+    "ยังไม่ได้ตั้งชื่อ 1.base",
+    "elastic fiber.md",
+    "Drawing 2026-08-24 13.21.12.excalidraw.md",
+    "nuclear pore.md",
+    "pantothenic acid (B5) deficiency.md",
+    "DNA replication.md",
+    "epigenetics.md",
+    "heterochromatin.md",
+    "gene expression.md",
+    "ยังไม่ได้ตั้งชื่อ.base",
+    "metabolism pathway.canvas",
+    "Excalidraw",
+    "medical profession"
   ]
 }

@@ -1,6 +1,6 @@
 
 **gated transport**
-- nuclear import and export
+- [[nuclear pore transport]] 
 	- through [[nuclear pore]]
 		- export: mRNA, pre-ribosome, tRNA, snRNA
 			1. nuclear export signal (NES) on protein binds to *exportin*
@@ -17,6 +17,7 @@
 		- import ribosomal protein from cytoplasm
 		- ribosomal protein binds with rRNA in nucleolus
 		- two subunits are exported to cytoplasm
+			- low complexity domain makes nuclear pore expandable
 - peroxisome
 	- through nuclear pore-like phase with PEX protein
 		- mutation of PEX protein -> [[Zellweger syndrome]]
@@ -29,12 +30,13 @@
 	- protein to go inside ER
 		1. signal recognizing particle recognized ER signal
 		2. translation pauses and ribosome goes to bind with ER membrane
-		3. translation continues, releasing translated protein though translocon channel on ER membrane (called cotranslational translacation)
+		3. translation continues, releasing translated protein though translocon channel on ER membrane (called cotranslational translocation)
 	- protein to integrate in membrane
-		1. translating protein has hydrophobic start sequence and stop sequence
-		2. finish translation, protein stuck in membrane
+		1. translating protein will contain hydrophobic start sequence and stop sequence
+		2. translocon recognized those sequences 
+		3. when finish translation, protein stuck in membrane
 **vesicular transport**
-- [[vesicle]]
+- [[vesicle]] 
 - [[coat protein]]
 	- capture molecules
 	- shape membrane into bud
@@ -50,13 +52,15 @@
 			- plasma membrane -> Golgi
 			- Golgi -> lysosome
 		- endophilin - similar to clathrin but faster, avoid transporting to lysosome
-			- fast endophilin mediated endocytosis - used by toxins
-		- dynamin - cleave off budding vesicle
+			- fast endophilin mediated endocytosis (FEME) - used by toxins
+			- [[acute myeloid leukemia ]]
+		- CLIC/GEEC
+	- dynamin - cleave off budding vesicle
 - [[motor protein]]
 	- kinesin : anterograde (ER -> Golgi -> plasma membrane)
 	- dynein: retrograde (plasma membrane -> Golgi -> ER)
-- SNAREs - binding together triggers vesicle fusion
-	- vesicle SNARE
+- SNAREs - binding together triggers fusion proteins
+	- vesicle SNARE 
 	- target SNARE 
-		- Botulinum toxin - destroy SNAREs -> neurotransmitter vesicle cannot be removed
+		- Botulinum toxin - destroy SNAREs -> neurotransmitter vesicle cannot fuse with axon terminal membrane -> muscle cannot contract
 

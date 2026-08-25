@@ -49,30 +49,44 @@
             "id": "3c63fc98e435f582",
             "type": "leaf",
             "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/all metabolism pathway.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "all metabolism pathway"
+            }
+          },
+          {
+            "id": "9fca0311f77fe8c3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "apoptosis.md",
+                "file": "metabolism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "apoptosis"
+              "title": "metabolism"
             }
           },
           {
-            "id": "e6ee39af6b2fada6",
+            "id": "81c2065eceb6cd43",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/metabolism pathway.md"
+                "file": "molecular technology.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "metabolism pathway"
+              "icon": "lucide-file",
+              "title": "molecular technology"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -150,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "apoptosis.md",
+                "file": "polysaccharide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "apoptosis.md",
+                "file": "polysaccharide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -239,37 +253,48 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3c63fc98e435f582",
+  "active": "81c2065eceb6cd43",
   "lastOpenFiles": [
-    "Excalidraw/metabolism pathway.md",
-    "PEP.md",
-    "glucose.md",
+    "_files/molectech1.jpeg",
+    "molecular technology.md",
+    "Excalidraw/Drawing 2026-08-25 20.12.10.excalidraw.md",
+    "accessory proteins.md",
+    "polymerase chain reaction.md",
+    "_files",
+    "_files/FullSubwayMap_V1023_Web.pdf",
+    "electron transport chain.md",
+    "metabolism.md",
+    "ยังไม่ได้ตั้งชื่อ.base",
+    "Ink/Drawing/2026.8.25 - 9.28am.svg",
+    "Ink/Drawing/2026.8.24 - 19.23pm.svg",
+    "Ink/Drawing/2026.8.24 - 19.21pm.svg",
+    "Ink/Drawing/2026.8.24 - 14.02pm.svg",
+    "Ink/Drawing/2026.8.24 - 13.50pm.svg",
+    "disaccharide.md",
+    "polysaccharide.md",
+    "Excalidraw/all metabolism pathway.md",
+    "ac.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2026-08-25 09.48.31.excalidraw.md",
+    "glycoaminoglycan.md",
+    "cellulose.md",
     "glycogen.md",
-    "amino acid.md",
-    "Krebs Cycle.md",
-    "cholesterol.md",
-    "metabolism pathway.canvas",
-    "Excalidraw",
+    "starch.md",
     "carbohydrate.md",
-    "phospolipid.md",
-    "apoptosis.md",
-    "AIDS.md",
-    "Parkinson's disease.md",
-    "Alzheimer's disease.md",
-    "caspase.md",
-    "cytochrome C.md",
-    "BCL-2.md",
-    "cell death.md",
-    "autophagy.md",
-    "lysosome.md",
+    "monosaccharide.md",
+    "Ink/Drawing/2026.8.24 - 19.32pm.svg",
     "CLAUDE cell bio week 1 revision.md",
-    "cell biolody and med chem.md",
-    "mitochondria.md",
-    "necrosis.md",
-    "cell cycle.md",
-    "cell signaling.md",
-    "protein trafficking.md",
-    "Untitled",
+    "coenzyme A.md",
+    "PEP.md",
+    "carrier molecule.md",
+    "ATP.md",
+    "FADH2.md",
+    "NADH.md",
+    "metabolism pathway.canvas",
+    "Ink/Drawing",
+    "Ink",
+    "ยังไม่ได้ตั้งชื่อ 1.base",
+    "Excalidraw",
     "block1.1 cell bio med chem",
     "Screenshot 2026-08-11 at 7.03.24 PM.png"
   ]

@@ -1,4 +1,54 @@
-molecular technology I
-molecular technology II
+preparation
+- cell extraction (cell lysis, homogenization)
+	- physical
+		- tissue grinder
+		- homogenizer
+	- chemical
+		- Triton-X / SDS
+		- potassium thiocyanate
+	- enzymatic 
+		- protease
+		- lipase
+		- cellulase
+		- chitinase
+- centrifugation
+	- differential centrifugation - repeating centrifuge of supernatant (solution that doesn't coagulate)
+	- density-gradient centrifugation
+
+molecular techniques:
+- DNA amplification
+	- [[polymerase chain reaction]] (PCR)
+- hybridization - probes specificity depend on temperature, semi-quantitative
+	- northern blot - target RNA -> mRNA expression, mRNA alternative splicing 
+	- southern blot - target DNA -> detect gene, deletion, insertion
+	- dot blot hybridization
+	- In situ hybridization
+	- DNA microarray
+		- comparative expression by labeling two cDNA (from RNA) with fluorophore
+- DNA sequencing & next-generation sequencing
+	- Sanger sequencing
+		- ddNTP (nucleotide without oxygen at 3' position) terminates polymerization
+	- second generation
+		- parallelization
+	- third generation
+		- single-molecule sequencing
+- protein purification
+	- column chromatography
+		- ion-exchange - sort by charges
+		- gel filtration - sort by molecular size
+		- affinity - specific binding
+	- electrophoresis
+		- non-denaturing PAGE
+		- denaturing PAGE (SDS-PAGE)
+	- isoelectric focusing
+	- 2D electrophoresis
+- protein detection
+	- western blot
+	- rapid strip test
+		- rapid antigen test
+	- ELISA
+	- immunohistochemistry
+	- immunofluorescence
+![[molectech1.jpeg|470]]
+
 - [[genetic engineering]]
-- 

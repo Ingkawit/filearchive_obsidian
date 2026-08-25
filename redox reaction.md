@@ -6,11 +6,11 @@ exchange of electrons
 
 electron carriers:
 
-|                                                 | oxidized form (few H) | reduced form |
-| ----------------------------------------------- | --------------------- | ------------ |
-| [[nicotinamide adenine dinucleotide (NAD)]]           | NAD+                  | NADH         |
-| [[nicotinamide adenine dinucleotide phosphate (NADP)]] | NADP+                 | NADPH        |
-| [[flavin adenine dinucleotide]]                 | FAD                   | FADH2        |
+|                                                        | oxidized form (few H) | reduced form |
+| ------------------------------------------------------ | --------------------- | ------------ |
+| [[NADH]]            | NAD+                  | NADH         |
+| [[NADPH]] | NADP+                 | NADPH        |
+| [[flavin adenine dinucleotide]]                        | FAD                   | FADH2        |
 
 oxidation of substance (extract energy):
 	substance + oxidized carrier => oxidized substance + reduced carrier

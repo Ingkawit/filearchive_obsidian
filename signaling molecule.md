@@ -1,5 +1,5 @@
-most are hydropholic -> binds to cell-surface receptor
-some are hydrophobic and bound to carrier protein -> binds to intracellular receptor
+- most are hydropholic -> binds to cell-surface receptor
+- some are hydrophobic and bound to carrier protein -> binds to intracellular receptor
 
 types:
 - [[hormone]] - substances in trace amount traveling via blood stream to target cells

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:\"CLAUDE cell bio week 1 revision\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -9,7 +9,7 @@
   "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.6,
+  "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.28230563002681,
   "lineSizeMultiplier": 1.36796805183199,
   "collapse-forces": false,
@@ -17,6 +17,6 @@
   "repelStrength": 15.5282817502668,
   "linkStrength": 0.688337801608579,
   "linkDistance": 111,
-  "scale": 0.2920298666813844,
+  "scale": 0.19787628938074736,
   "close": true
 }

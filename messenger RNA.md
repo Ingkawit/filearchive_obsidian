@@ -7,9 +7,10 @@ serves as template for protein synthesis
 - UAA,UGA,UAG (no amino acid)
 
 structure:
-- [[promoter]] region
+5’ cap
 - 5' UTR (untranslated region) - for mRNA stability
 - **start codon**
 - introns, exons
 - **stop codon**
 - 3' UTR - for mRNA stability
+3’ cap (poly A tail)
