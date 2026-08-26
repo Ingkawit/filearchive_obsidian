@@ -1,0 +1,1 @@
+endonuclease that recognize specific palindromic sequence called restriction site and cleave both strands into sticky end (hanging) or blunt end (no hanging)

@@ -57,7 +57,7 @@ _Compiled from your Obsidian vault. Suggested study order: bottom-up (molecules 
     - [[adherens junction]] (cadherin–actin)
     - [[desmosome junction]] (cadherin–intermediate filament) — cardiac/skin
     - [[gap junction]] (connexons) — cell communication
-    - [[cell-to-matrix junction]] (integrin) — actin-linked vs hemidesmosome (intermediate filament)
+    - [[cell-to-matrix junction]] (integrin) — **actin-linked** vs **hemidesmosome** (intermediate filament)
 - **[[extracellular matrix]]** — collagen, elastic fiber, proteoglycan, GAGs, laminin, integrin; specialized as [[basal lamina]]
 - **Clinical:** Marfan syndrome, epidermolysis bullosa, ARVC (desmosome defect)
 

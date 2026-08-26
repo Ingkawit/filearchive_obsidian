@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cell biolody and med chem.md",
+                "file": "gene theraphy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cell biolody and med chem"
+              "title": "gene theraphy"
             }
           },
           {
@@ -37,16 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE cell bio week 1 revision.md",
+                "file": "elastic fiber.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE cell bio week 1 revision"
+              "title": "elastic fiber"
             }
           },
           {
-            "id": "3c63fc98e435f582",
+            "id": "9fca0311f77fe8c3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -55,20 +55,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "all metabolism pathway"
-            }
-          },
-          {
-            "id": "9fca0311f77fe8c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metabolism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "metabolism"
             }
           },
           {
@@ -86,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cell",
+                "query": "fibri",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,9 +239,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81c2065eceb6cd43",
+  "active": "5e304b3da5a3e97d",
   "lastOpenFiles": [
+    "CRISPR/Cas9.md",
+    "gene theraphy.md",
+    "genetic engineering.md",
+    "CRISPR-Cas9.md",
+    "CRISPR",
     "molecular technology.md",
+    "restriction enzyme.md",
+    "cell biolody and med chem.md",
+    "elastic fiber.md",
+    "CLAUDE cell bio week 1 revision.md",
+    "cell-to-matrix junction.md",
+    "cell adhesion.md",
+    "tight junction.md",
+    "protein trafficking.md",
+    "Excalidraw/all metabolism pathway.md",
+    "metabolism.md",
     "_files/molectech1.jpeg",
     "Excalidraw/Drawing 2026-08-25 20.12.10.excalidraw.md",
     "accessory proteins.md",
@@ -263,7 +264,6 @@
     "_files",
     "_files/FullSubwayMap_V1023_Web.pdf",
     "electron transport chain.md",
-    "metabolism.md",
     "ยังไม่ได้ตั้งชื่อ.base",
     "Ink/Drawing/2026.8.25 - 9.28am.svg",
     "Ink/Drawing/2026.8.24 - 19.23pm.svg",
@@ -272,24 +272,12 @@
     "Ink/Drawing/2026.8.24 - 13.50pm.svg",
     "disaccharide.md",
     "polysaccharide.md",
-    "Excalidraw/all metabolism pathway.md",
     "ac.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2026-08-25 09.48.31.excalidraw.md",
     "glycoaminoglycan.md",
     "cellulose.md",
-    "glycogen.md",
-    "starch.md",
-    "carbohydrate.md",
-    "monosaccharide.md",
     "Ink/Drawing/2026.8.24 - 19.32pm.svg",
-    "CLAUDE cell bio week 1 revision.md",
-    "coenzyme A.md",
-    "PEP.md",
-    "carrier molecule.md",
-    "ATP.md",
-    "FADH2.md",
-    "NADH.md",
     "metabolism pathway.canvas",
     "Ink/Drawing",
     "Ink",
