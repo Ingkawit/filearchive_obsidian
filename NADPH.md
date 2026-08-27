@@ -1,0 +1,4 @@
+- biosynthesis - fatty acid, amino acid, cholesterol
+- produce ROS (kill bacteria) in WBC eg. hypochlorous acid
+- maintenance of reduced GSH against ROS
+- generate Hb-Fe2+

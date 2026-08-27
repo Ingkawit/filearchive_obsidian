@@ -14,8 +14,12 @@
 			- glycated albumin
 			- hemoglobin A1c (HbA1c)
 		- enzymatic glycation (glycosylation)
-			- N-linked glycosylation - targets 
+			- N-linked glycosylation - amino group of Asn 
+				- N-acetylglucosamine
+			- O-linked glycosylation - hydroxyl group of Ser/Thr
+				- N-acetylgalactosamine
 	- [[glycolipid]] - lipid attached to small carbohydrate
+	- [[glycoside]] - sugar + non-sugar
 
 polymer
 - homopolysaccharide eg. [[starch]], glycogen, cellulose

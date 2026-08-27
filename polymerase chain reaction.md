@@ -24,20 +24,21 @@ repeat n cycles -> 2^n molecules
 ### RT-PCR
 difference from regular PCR
 - RNA sample
-- reverse transcriptase - turn RNA into cDNA
+- reverse transcriptase - add cDNA to RNA making double strand
 regular PCR process 
 
 #### nested PCR
 - using PCR product as template for a new PCR
+- enhance specificity, sensitivity 
 #### multiplex PCR
 - more than 1 pair of primer in single tube
+- every pair of primer work at same temperature, yield different size product 
 #### RFLP
 restriction fragment length polymorphism
 - detect point mutation
 #### real-time PCR (quantitative PCR)
-- track DNA with fluorescent molecule eg. SYBR green, TaqMan probe
+- track DNA with fluorescent molecule eg. SYBR green, TaqMan probe (specific)
 - cycle threshold (Ct) - how many cycles to produce more DNA than threshold
 - lower Ct -> high amount of start DNA
 - can measure exact amount of DNA
 
-![[FullSubwayMap_V1023_Web.pdf]]

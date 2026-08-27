@@ -9,46 +9,46 @@ preparation
 	- enzymatic 
 		- protease
 		- lipase
-		- cellulase
-		- chitinase
+		- cellulase/chitinase
 - centrifugation
-	- differential centrifugation - repeating centrifuge of supernatant (solution that doesn't coagulate)
+	- differential centrifugation - repeating centrifuge of supernatant (solution that doesn't coagulate) at increasing speed -> smaller molecules
 	- density-gradient centrifugation
 
 molecular techniques:
-- DNA amplification
+- **DNA amplification**
 	- [[polymerase chain reaction]] (PCR)
-- hybridization - probes specificity depend on temperature, semi-quantitative
-	- northern blot - target RNA -> mRNA expression, mRNA alternative splicing 
-	- southern blot - target DNA -> detect gene, deletion, insertion
-	- dot blot hybridization
-	- In situ hybridization
-	- DNA microarray
-		- comparative expression by labeling two cDNA (from RNA) with fluorophore
-- DNA sequencing & next-generation sequencing
-	- Sanger sequencing
-		- ddNTP (nucleotide without oxygen at 3' position) terminates polymerization
-	- second generation
+- **hybridization** - complementary base pairing between a labeled probe and a target nucleic acid
+	- **northern blot** - target RNA -> how much mRNA expression, mRNA alternative splicing 
+	- **southern blot** - target DNA -> detect gene, deletion, insertion
+	- **dot blot hybridization** - no electrophoresis-> no size information only presence/absence
+	- **In situ hybridization**- probe applied to intact tissue -> spatial location
+	- **DNA microarray**
+		- two RNA sample converted to cDNA and labeled with different fluorophores and hybridized into known probe sequence
+		- give comparison of gene expression at each spot
+- **DNA sequencing & next-generation sequencing**
+	- **Sanger sequencing**
+		- ddNTP (nucleotide without oxygen at 3'-OH) terminates polymerization
+	- **second generation**
 		- parallelization
-	- third generation
-		- single-molecule sequencing
-- protein purification
-	- column chromatography
-		- ion-exchange - sort by charges
-		- gel filtration - sort by molecular size
-		- affinity - specific binding
-	- electrophoresis
-		- non-denaturing PAGE
-		- denaturing PAGE (SDS-PAGE)
-	- isoelectric focusing
-	- 2D electrophoresis
-- protein detection
-	- western blot
-	- rapid strip test
-		- rapid antigen test
-	- ELISA
-	- immunohistochemistry
-	- immunofluorescence
+	- **third generation**
+		- single-molecule sequencing without amplification
+- **protein purification** - commonly used for recombinant protein purification ([[genetic engineering]])
+	- **column chromatography** - protein flow though column, interacting differently with phases
+		- ion-exchange - separate by charges
+		- gel filtration - separate by molecular size (smaller takes longer)
+		- affinity - specific binding eg. His-tag
+	- **electrophoresis**
+		- **non-denaturing PAGE** - protein size, charge, shape  affect gel electrophoresis 
+		- **denaturing PAGE (SDS-PAGE)** - SDS coats protein with negative charge and denatures, normalizing charge and shape -> gel electrophoresis depends on only size
+	- **isoelectric focusing** - protein stop moving when net charge = 0
+	- **2D electrophoresis**
+- **protein detection**
+	- **western blot** - detects protein, use antibody as probe
+	- **rapid strip test**
+		- rapid antigen test - antibody-coated strip
+	- **ELISA** - antibody linked with enzyme that turn substrate into detectable signal, provide quantitative measurement
+	- **immunohistochemistry**
+	- **immunofluorescence**
 ![[molectech1.jpeg|470]]
 
 - [[genetic engineering]]

@@ -1,18 +1,19 @@
 recombinant DNA technology
-- amplifying ([[polymerase chain reaction]])
-- insert ([[restriction enzyme]]) into cloning vector (bacteria)
-	- selection - blue white selection by lacZ gene
-	
-	- chemical transformation eg. heat shock
-	- electroporation 
-- transformation into protein expressing host
-	- consists of strong promoter, a selection marker, operator seqeunce
-	- purification - tagged with histidine
-	- cloning vector vs expression vector
+- **amplifying** ([[polymerase chain reaction]])
+- **insert** into cloning vector (bacterial plasmid)
+	- cut gene inserted into cloning vector by [[restriction enzyme]]
+	- *selection* - substrate turns blue if lacZ gene is intact -> successful vector will turn out white
+	- getting vector (plasmid) into cell:
+		- chemical transformation eg. heat shock
+		- electroporation 
+- **transformation** into protein expressing host
+	- consists of strong promoter, a selection marker (eg.antibiotic-resistance gene), operator sequence
+	- purification - histidine tagged recombinant protein -> purification by *affinity chromatography column* 
+	- cloning vector (do amplification) vs expression vector (do transcription and translation)
 
-		- transfection
-		- transduction
-- identification of rProtein (western blot or fluorescence)
+		- transfection - getting DNA into eukaryotic cell
+		- transduction - getting DNA in using virus as delivery
+- identification of recombinant protein (western blot or fluorescence)
 
 recombinant protein expression system
 

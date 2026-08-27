@@ -15,3 +15,6 @@ cofactors:
 **Cytochrome c oxidase (complex IV)**
 - contains heme
 **ATP synthase (complex V)**
+
+
+[[electrontransport path]]

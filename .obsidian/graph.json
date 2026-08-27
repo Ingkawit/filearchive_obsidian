@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"CLAUDE cell bio week 1 revision\"",
+  "search": "-path:\"CLAUDE cell bio week 1 revision\" met",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 15.5282817502668,
   "linkStrength": 0.688337801608579,
   "linkDistance": 111,
-  "scale": 0.19787628938074736,
-  "close": true
+  "scale": 0.24749681609070845,
+  "close": false
 }
