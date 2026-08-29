@@ -1,3 +1,3 @@
 lipid with carbohydrate attached
-[[phospolipid]]
+[[phospholipid]]
 eg. cerebroside

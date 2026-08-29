@@ -1,4 +1,4 @@
-- [[phospolipid]] bilayer
+- [[phospholipid]] bilayer
 **fluid mosaic model**
 consists of
 - 2 phospholipid layers

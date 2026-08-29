@@ -3,19 +3,30 @@ building block: glycerol, [[fatty acid]]
 types
 - fatty acid and derivatives
 	- [[glycerolipid]]
-		- triacylglyceride
+		- triacylglycerol 
 		- glycoglycerolipid
+	- [[phospholipid]]
 		- glycerophospholipid
-			- phosphatidic acid
-				- [[phospholipid]]
+			- phosphatidylcholine (lecithin)
+			- phosphatidylethanolamine (PE)
+			- phosphatidylserine (PS)
+			- phosphatidylinositol (PI)
+			- phosphatidylglycerol (PG)
+			- cardiolipin
+		- ether glycerolipid
+			- plasmalogen
+			- platelet activating factor
 	- [[sphingolipid]]
 		- ceramide
-- steroid
-	- [[cholesterol]]
-	- [[bile salt]]
-	- vitamin D
-- isoprenoid
-	- fat-soluble vitamins (A D E K)
+		- sphingophospholipid
+- isoprene
+	- steroid
+		- [[bile salt]]
+		- sex hormones
+	- sterol:
+		- fat-soluble vitamins (A D E K)
+		- [[cholesterol]]
+- [[eicosanoid]]
 
 structure:
 - glycerol
@@ -34,3 +45,4 @@ complexity
 	- fatty acid
 	- glycerol
 	- cholesterol
+

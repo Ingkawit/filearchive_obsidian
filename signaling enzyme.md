@@ -18,3 +18,13 @@ examples:
 
 double negative signal
 - kinase inhibits inhibitor, which inhibits transcription regulator, which promote gene expression
+
+<iframe src="https://drive.google.com/file/d/1j2hsRGs0H-O93Yoc9eR4AyQKuD7NfByl/view?usp=sharing?rm=minimal" width="100%" height="500px" style="border: none;"></iframe>
+
+
+
+
+
+
+
+

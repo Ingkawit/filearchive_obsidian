@@ -11,78 +11,6 @@
             "id": "bd7cfee5b0eb9a8d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "9fca0311f77fe8c3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/all metabolism pathway.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "all metabolism pathway"
-            }
-          },
-          {
-            "id": "df95d98287ef7a32",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/glucose metabolism path.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "glucose metabolism path"
-            }
-          },
-          {
-            "id": "7b9d26886751c4dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/glucuronic acid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "glucuronic acid"
-            }
-          },
-          {
-            "id": "51dc6e306a50a5bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/galactose.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "galactose"
-            }
-          },
-          {
-            "id": "9fb7b715cd0174ad",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/gluconeogenesis path.md"
@@ -104,33 +32,114 @@
             }
           },
           {
-            "id": "237e8a6995e0bc1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "glucose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "glucose"
-            }
-          },
-          {
-            "id": "2dd0bc8584cadaa5",
+            "id": "1cd794f676acb60d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/glucose cycle path.md"
+                "file": "Excalidraw/glucose metabolism path.md"
               },
               "icon": "excalidraw-icon",
-              "title": "glucose cycle path"
+              "title": "glucose metabolism path"
+            }
+          },
+          {
+            "id": "de435db3bd9cca01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lipid.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lipid"
+            }
+          },
+          {
+            "id": "a6e0adcacc85b4c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cholesterol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cholesterol"
+            }
+          },
+          {
+            "id": "3975e29081e7830f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/cholesterol synthesis path.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "cholesterol synthesis path"
+            }
+          },
+          {
+            "id": "563a8f279fa77614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lipoprotein.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lipoprotein"
+            }
+          },
+          {
+            "id": "9f647b5e99170c2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "molecular technology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "molecular technology"
+            }
+          },
+          {
+            "id": "82101263e953e7aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/fatty acid metabolism draw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "fatty acid metabolism draw"
+            }
+          },
+          {
+            "id": "05eb6c210f1363d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "signaling enzyme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "signaling enzyme"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -164,7 +173,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UDP",
+                "query": "fructose",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 308.1641845703125
   },
   "right": {
     "id": "d37d8343c14fa720",
@@ -209,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polysaccharide.md",
+                "file": "signaling enzyme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polysaccharide.md",
+                "file": "signaling enzyme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -271,6 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "signaling enzyme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -290,11 +300,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 289.1873779296875,
     "collapsed": true
   },
   "left-ribbon": {
@@ -309,34 +319,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2dd0bc8584cadaa5",
+  "active": "05eb6c210f1363d2",
   "lastOpenFiles": [
-    "Excalidraw/glucose cycle path.md",
-    "NADPH.md",
-    "Excalidraw/glucuronic acid.md",
-    "Excalidraw/glucose-6-phosphate.md",
-    "Excalidraw/glucose metabolism path.md",
+    "Excalidraw/cholesterol synthesis path.md",
+    "lipoprotein.md",
+    "lipid.md",
+    "cholesterol.md",
+    "molecular technology.md",
     "Excalidraw/gluconeogenesis path.md",
-    "glucose.md",
-    "glycogen.md",
-    "Excalidraw/galactose.md",
-    "cataract.md",
-    "monosaccharide.md",
-    "Excalidraw/sorbitol.md",
-    "carbohydrate metabolism.md",
-    "G6PD deficiency.md",
-    "Excalidraw/all metabolism pathway.md",
-    "Excalidraw/gluconeogenesis.md",
-    "glycogenolysis.md",
-    "Excalidraw/glycogenesis path.md",
-    "Excalidraw/electrontransport path.md",
-    "electron transport chain.md",
     "Excalidraw/carb digest pathway.md",
-    "thiamine (B1).md",
-    "polysaccharide.md",
-    "glycoside.md",
-    "glycolipid.md",
-    "phospolipid.md",
+    "Excalidraw/glucose metabolism path.md",
+    "medical profession/career.md",
+    "Excalidraw/glucose cycle path.md",
+    "Excalidraw/all metabolism pathway.md",
+    "protein trafficking.md",
+    "cell signaling.md",
+    "signaling mediator.md",
+    "acetyl coA.md",
+    "necrosis.md",
+    "NA.md",
+    "Untitled.md",
+    "meiosis.md",
+    "mitosis.md",
+    "signaling molecule.md",
+    "signaling enzyme.md",
+    "kinase.md",
+    "G-protein.md",
+    "Excalidraw/pentose phosphate pathway.md",
+    "Excalidraw/fatty acid metabolism draw.md",
     "CRISPR",
     "_files/molectech1.jpeg",
     "_files",

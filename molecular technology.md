@@ -17,7 +17,7 @@ preparation
 molecular techniques:
 - **DNA amplification**
 	- [[polymerase chain reaction]] (PCR)
-- **hybridization** - complementary base pairing between a labeled probe and a target nucleic acid
+- **hybridization** - complementary base pairing between a labeled probe and a target nucleic acid -> chromosome rearrangement, translocation
 	- **northern blot** - target RNA -> how much mRNA expression, mRNA alternative splicing 
 	- **southern blot** - target DNA -> detect gene, deletion, insertion
 	- **dot blot hybridization** - no electrophoresis-> no size information only presence/absence
