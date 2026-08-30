@@ -7,6 +7,6 @@ function: attach cells during shearing, abrasive force, linking microfilament be
 found in every cells
 
 malfunctions:
-- inflammatory bowel junction
+- inflammatory bowel syndrome
 - colorectal carcinoma
 - cancer cell metastasis

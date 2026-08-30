@@ -70,20 +70,6 @@
               "icon": "lucide-file",
               "title": "glycogen"
             }
-          },
-          {
-            "id": "348d565688823ab7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "molecular technology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "molecular technology"
-            }
           }
         ],
         "currentTab": 3
@@ -241,11 +227,13 @@
   },
   "active": "8bcb82e86095faef",
   "lastOpenFiles": [
-    "Excalidraw/gluconeogenesis path.md",
     "Excalidraw/glucose cycle path.md",
-    "Excalidraw/glucose metabolism path.md",
-    "gene theraphy.md",
+    "glycogen.md",
+    "signaling enzyme.md",
     "molecular technology.md",
+    "Excalidraw/glucose metabolism path.md",
+    "Excalidraw/gluconeogenesis path.md",
+    "gene theraphy.md",
     "genetic engineering.md",
     "cell signaling.md",
     "statin.md",
@@ -258,7 +246,6 @@
     "gluconeogenesis.md",
     "signaling mediator.md",
     "beta-thalassemia.md",
-    "glycogen.md",
     "thalassemia.md",
     "alpha-thalassemia.md",
     "protein trafficking.md",
@@ -266,7 +253,6 @@
     "Excalidraw/Drawing 2026-08-25 09.48.31.excalidraw.md",
     "meiosis.md",
     "CRISPR-Cas9.md",
-    "translation.md",
     "_files/molectech1.jpeg",
     "IMG_4753.jpeg",
     "_files/FullSubwayMap_V1023_Web.pdf",
