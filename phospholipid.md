@@ -21,7 +21,7 @@ asymmetry distribution on [[plasma membrane]]
 
 outside dominated:
 - sphyngomyelin
-- phosphatidyl*choline*
+- phosphatidyl*choline* (lecithin)
 inside dominated:
 - phosphatidyl*ethanolamine*
 - phosphatidyl*serine*
@@ -29,3 +29,4 @@ inside dominated:
 
 lung surfactant (dipalmitoyl-*phosphatidylcholine*) - lower surface tension, reduce pressure needed to re-inflate alveoli, prevent collapse
 - insufficient surfactant -> [[neonatal respiratory distress syndrome]]
+- administration: corticosteroids (dexamethasne) improve fetal lung surfactant production 

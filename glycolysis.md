@@ -1,0 +1,1 @@
+[[glucose metabolism path]]

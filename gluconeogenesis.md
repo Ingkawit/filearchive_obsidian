@@ -1,7 +1,7 @@
 occur in liver (mostly) and kidney
 cannot occur in muscle (have no glucose-6-phosphatase)
 
-create glucose from
+create [[glucose]] from
 - [[pyruvate]]
 - [[lactic acid]]
 - Krebs cycle intermediate

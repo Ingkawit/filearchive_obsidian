@@ -1,7 +1,7 @@
 major energy source
 - may converted to [[glycogen]] or [[lipid]]
 
-[[glycogenolysis]] and [[gluconeogenesis]] 
+[[glycogenolysis]] vs [[gluconeogenesis]] 
 
 | phase (hrs)     | origin of glucose                      |
 | --------------- | -------------------------------------- |

@@ -24,3 +24,4 @@ clinical
 	- CPT2 defiency ->  accumulation of long chain acylcarnitine -> cardiac arrest
 	- treatment: high carb diet, MCFA supplement (no need carnitine shuttle), avoid fasting
 
+[[fatty acid beta oxidation path]]
