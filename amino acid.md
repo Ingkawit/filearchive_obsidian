@@ -34,3 +34,22 @@ chemical structure:
 | proline    | Pro , P |     | alpha-ketoglutarate |
 | tyrosine   | Tyr , Y |     | Phe                 |
 |            |         |     |                     |
+
+glucogenic and ketogenic amino acids
+
+| amino acid    | glucogenic            | both          | ketogenic |
+| ------------- | --------------------- | ------------- | --------- |
+| non-essential | alanine               | tyrosine      |           |
+|               | glycine               |               |           |
+|               | serine                |               |           |
+|               | proline               |               |           |
+|               | asparagine, aspartate |               |           |
+|               | glutamine, glutamate  |               |           |
+|               | arginine              |               |           |
+|               | cysteine              |               |           |
+| essential     | methione              | tryptophan    | lysine    |
+|               | histidine             | isoleucine    | leucine   |
+|               | valine                | phenylalanine |           |
+|               |                       | threonine     |           |
+
+branched chain amino acid: valine, leucine, isoleucine

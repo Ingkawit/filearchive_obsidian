@@ -61,10 +61,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/lipoprotein metabolism path.md"
+                "file": "Excalidraw/eicosanoid metabolism path.md"
               },
               "icon": "excalidraw-icon",
-              "title": "lipoprotein metabolism path"
+              "title": "eicosanoid metabolism path"
             }
           },
           {
@@ -87,16 +87,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "triacylglycerol.md",
+                "file": "fatty acid synthesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "triacylglycerol"
+              "title": "fatty acid synthesis"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "triacylglycerol.md",
+            "file": "omega-3.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -249,34 +249,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "027c05802b556d42",
+  "active": "d86937a137ccbd92",
   "lastOpenFiles": [
-    "fatty acid.md",
+    "transamination.md",
+    "urea cycle.md",
+    "omega-3.md",
+    "eicosanoid.md",
+    "eicosanoid synthesis.md",
+    "Excalidraw/eicosanoid metabolism path.md",
+    "Excalidraw/fatty acid beta oxidation path.md",
+    "beta-oxidation.md",
+    "Excalidraw/fatty acid synthesis path.md",
+    "phospholipid.md",
+    "Excalidraw/lipoprotein metabolism path.md",
+    "fatty acid synthesis.md",
     "triacylglycerol.md",
+    "fatty acid.md",
+    "Excalidraw/glucose cycle path.md",
+    "Excalidraw/gluconeogenesis path.md",
+    "Excalidraw/glucose metabolism path.md",
     "hyperlipoproteinemia.md",
     "familial hypercholesterolemia.md",
     "lipoprotein.md",
-    "Excalidraw/lipoprotein metabolism path.md",
     "Excalidraw/fatty acid metabolism path.md",
     "Excalidraw/cholesterol synthesis path.md",
-    "phospholipid.md",
-    "Excalidraw/glucose cycle path.md",
     "lipid.md",
     "lipid metabolism.md",
     "glucose.md",
-    "Excalidraw/glucose metabolism path.md",
-    "Excalidraw/gluconeogenesis path.md",
     "NADPH.md",
-    "G6PD deficiency.md",
-    "gluconeogenesis.md",
-    "glycogen.md",
-    "translation.md",
-    "fatty acid metabolism.md",
-    "signaling enzyme.md",
-    "molecular technology.md",
-    "gene theraphy.md",
-    "genetic engineering.md",
-    "cell signaling.md",
     "_files/molectech1.jpeg",
     "IMG_4753.jpeg",
     "_files/FullSubwayMap_V1023_Web.pdf",

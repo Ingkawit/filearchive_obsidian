@@ -1,4 +1,4 @@
-[[fatty acid metabolism path]]
+[[fatty acid synthesis path]]
 
 metabolism
 - [[fatty acid synthesis]] : acetyl coA -> fatty acid

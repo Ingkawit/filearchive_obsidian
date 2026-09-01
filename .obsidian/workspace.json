@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/glucose metabolism path.md"
+                "file": "Excalidraw/fatty acid beta oxidation path.md"
               },
               "icon": "excalidraw-icon",
-              "title": "glucose metabolism path"
+              "title": "fatty acid beta oxidation path"
             }
           },
           {
@@ -32,43 +32,15 @@
             }
           },
           {
-            "id": "9f647b5e99170c2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lipoprotein.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lipoprotein"
-            }
-          },
-          {
             "id": "94ecf430279b1cd1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/gluconeogenesis path.md"
+                "file": "Excalidraw/glucose cycle path.md"
               },
               "icon": "excalidraw-icon",
-              "title": "gluconeogenesis path"
-            }
-          },
-          {
-            "id": "3e725bf0e8116ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "omega-oxidation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "omega-oxidation"
+              "title": "glucose cycle path"
             }
           },
           {
@@ -103,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alcohol metabolism.md",
+                "file": "amino acid metabolism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alcohol metabolism"
+              "title": "amino acid metabolism"
             }
           },
           {
@@ -150,9 +122,37 @@
               "icon": "lucide-file",
               "title": "water-soluble vitamin"
             }
+          },
+          {
+            "id": "dda1dc17026c6a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ketogenesis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ketogenesis"
+            }
+          },
+          {
+            "id": "db62e1cd955bef46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE integrated metabolism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE integrated metabolism"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MMA",
+                "query": "branched",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +210,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -332,34 +333,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1c473f11a01ccaf4",
+  "active": "13e70cdcab74b185",
   "lastOpenFiles": [
-    "vitamin K.md",
+    "Excalidraw/amino metabolism path.md",
+    "amino acid metabolism.md",
+    "Excalidraw/glucose cycle path.md",
+    "Excalidraw/gluconeogenesis path.md",
+    "Excalidraw/fatty acid synthesis path.md",
+    "transamination.md",
+    "amino acid.md",
+    "CLAUDE integrated metabolism.md",
+    "CLAUDE lipid metabolism.md",
+    "Excalidraw/fatty acid beta oxidation path.md",
+    "Excalidraw/glucose metabolism path.md",
+    "Excalidraw/eicosanoid metabolism path.md",
+    "Excalidraw/alcohol metabolism.md",
     "fat-soluble vitamin.md",
+    "lipoprotein.md",
+    "omega-oxidation.md",
+    "urea cycle.md",
+    "alcohol metabolism.md",
+    "ubiquitin.md",
+    "ketogenesis.md",
+    "vitamin K.md",
     "vitamin E.md",
     "vitamin D.md",
     "vitamin A.md",
     "retinoic acid.md",
-    "retinal.md",
-    "Excalidraw/alcohol metabolism.md",
-    "cystic fibrosis.md",
     "water-soluble vitamin.md",
-    "vitamin.md",
-    "alcohol metabolism.md",
-    "pyridoxine (B6) deficiency.md",
-    "lipoprotein.md",
-    "fatty acid.md",
-    "Excalidraw/amino metabolism path.md",
-    "metabolism.md",
-    "Excalidraw/cholesterol synthesis path.md",
-    "Excalidraw/fatty acid metabolism path.md",
-    "amino acid.md",
-    "Excalidraw/glucose metabolism path.md",
-    "CLAUDE lipid metabolism.md",
-    "glycolysis.md",
-    "Excalidraw/gluconeogenesis path.md",
-    "CLAUDE cell bio week 1 revision.md",
-    "anemia from B vitamins deficiency.md",
     "_files/FullSubwayMap_V1023_Web.pdf",
     "CRISPR",
     "_files/molectech1.jpeg",

@@ -14,3 +14,4 @@ position:
 - 𝛃 (3nd carbon / 2st carbon exclude carboxylic group)
 - 𝝎 (last carbon)
 
+essential fatty acid
