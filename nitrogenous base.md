@@ -1,13 +1,3 @@
-consists of
-- nucleoside
-	- sugar (ribose)
-	- [[nitrogenous base]]
-- phosphate
-
-numbers of phosphates
-1. nucleoside monophosphate (NMP)
-2. nucleoside diphosphate (NDP)
-3. nucleoside triphosphate (NTP)
 
 | type         | base           | nucleoside | nucleoside phosphate |
 | ------------ | -------------- | ---------- | -------------------- |
@@ -18,8 +8,6 @@ numbers of phosphates
 | *pyrimidine* | cytosine       | cytidine   | CMP                  |
 |              | uracil         | uridine    | UMP                  |
 |              | thymine        | thymidine  | TMP                  |
-
-function
-- structural part of coenzymes
-- UTP-glucose
+G triple bond C
+A double bond T/U
 

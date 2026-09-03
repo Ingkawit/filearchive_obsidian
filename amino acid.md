@@ -52,4 +52,4 @@ glucogenic and ketogenic amino acids
 |               | valine                | phenylalanine |           |
 |               |                       | threonine     |           |
 
-branched chain amino acid: valine, leucine, isoleucine
+[[branched-chain amino acid]] (BCAA): valine, leucine, isoleucine

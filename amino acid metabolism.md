@@ -48,7 +48,7 @@ amonia intoxication -> cause encephalopathy
 	- [[folate (B9)]] cycle (tetrahydrofolate <-> dihydrofolate)
 		- serine -> glycine
 		- dUMP -> dTMP
-			- 5-fluouracil inhibits this step
+			- 5-fluorouracil inhibits this step
 		- NADPH -> NADP+
 			- methotrexate inhibits this step
 - glycine
@@ -84,7 +84,7 @@ amonia intoxication -> cause encephalopathy
 - phenylalanine 
 	- -> tyrosine -> fumarate
 		- use phenylalanine hydroxylase with bioptein as cofactor
-		- defect in this enzyme leads to phenylketouria (PKU)
+		- defect in this enzyme leads to [[phenylketouria]] (PKU)
 			- decreased melanin, dopamine, EP, thyroxine
 			- neuropathy
 - tyrosine
