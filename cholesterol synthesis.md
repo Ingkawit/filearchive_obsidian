@@ -1,0 +1,1 @@
+[[cholesterol synthesis path]]
