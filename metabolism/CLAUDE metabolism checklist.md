@@ -1,6 +1,6 @@
 # Metabolism Study Checklist
 
-A master review checklist across every metabolism cluster currently in the vault, built from your note titles. Use it to track what's confidently understood vs. what needs another pass — check items off as you review, not as you create the note. Each major section links back to its hub note where one exists ([[metabolism]], [[carbohydrate metabolism]], [[lipid metabolism]], [[amino acid metabolism]], [[cholesterol metabolism]], [[nucleotide metabolism]]) so this checklist can sit as a dashboard note that transcludes or links out to the rest.
+A master review checklist across every metabolism cluster currently in the vault, built from your note titles. Use it to track what's confidently understood vs. what needs another pass — check items off as you review, not as you create the note. Each major section links back to its hub note where one exists ([[metabolism]], [[carbohydrate metabolism]], [[lipid metabolism]], [[amino acid metabolism]], [[cholesterol metabolism]], [[nucleic acid metabolism]]) so this checklist can sit as a dashboard note that transcludes or links out to the rest.
 
 ---
 
@@ -89,7 +89,7 @@ A master review checklist across every metabolism cluster currently in the vault
 
 ### Alcohol metabolism (shared with lipid/NADH burden)
 
-- [ ] [[alcohol metabolism]] — ADH/ALDH pathway, NADH burden and its downstream effects on gluconeogenesis and fatty acid oxidation; diagram: [[Excalidraw/alcohol metabolism]]
+- [ ] [[alcohol metabolism]] — ADH/ALDH pathway, NADH burden and its downstream effects on gluconeogenesis and fatty acid oxidation; diagram: [[alcohol metabolism path]]
 
 ---
 
@@ -113,7 +113,7 @@ _(This cluster already has a dedicated lecture study guide and two Anki decks �
 
 ## 4. Nucleotide metabolism
 
-**Hub note:** [[nucleotide metabolism]] · **Diagram:** [[Excalidraw/nucleic acid metabolism path]]
+**Hub note:** [[nucleic acid metabolism]] · **Diagram:** [[Excalidraw/nucleic acid metabolism path]]
 
 - [ ] [[nucleotide]] and [[nucleic acid]] structure — nucleoside vs. nucleotide, phosphodiester backbone
 - [ ] [[nitrogenous base]] classification — purines vs. pyrimidines, and which carbons/atoms come from which precursor amino acids (glycine, aspartate, glutamine) in de novo synthesis

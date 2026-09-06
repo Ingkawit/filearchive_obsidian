@@ -9,7 +9,7 @@ anabolic pathway - synthesis (small to large)
 - [[carbohydrate metabolism]]
 - [[lipid metabolism]]
 - [[amino acid metabolism]]
-- [[nucleotide metabolism]]
+- [[nucleic acid metabolism]]
 - [[alcohol metabolism]]
 - [[mineral metabolism]]
 

@@ -6,5 +6,6 @@ found in leafy plants, gut bacteria
 	- reduced vitamin K  -> oxidised vitamin K 
 	- oxidised vitamin K recycled by epoxide reductase
 anti-coagulant drugs inhibit epoxide reductase (interrupt vitamin K cycle -> affect clotting factor activation)
+vitamin K antagonist eg. warfarin
 
 deficiency leads to abnormal clotting, bleeding

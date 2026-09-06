@@ -1,4 +1,4 @@
-
+paracellular junction
 key proteins: 
 - claudins
 - occludins

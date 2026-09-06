@@ -11,6 +11,7 @@ functions:
 - [[cell motility ]]
 - **cytokinesis** in cell division 
 - forms [[microvili]]
+	- non-motile microvilli called [[stereocilia]]
 
 
 structure

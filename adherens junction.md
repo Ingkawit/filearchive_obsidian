@@ -1,6 +1,6 @@
 
 key proteins : 
-- cadherins
+- [[cadherin]]
 - catenin proteins (connect to [[microfilmament]])
 function: attach cells during shearing, abrasive force, linking microfilament between cells
 

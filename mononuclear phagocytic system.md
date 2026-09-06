@@ -1,0 +1,6 @@
+- [[macrophage]]
+- [[Kupffer cell]] - liver
+- [[dust cell]] - lung alveoli
+- [[osteoclast]] - bone
+- [[microglia]] - CNS
+- [[Langerhans cell]] - epidermis

@@ -1,0 +1,1 @@
+moves toward minus-end of [[microtubule]] (inward to cell center)

@@ -1,1 +1,1 @@
-structure under nuclear envelope that provides mechanical strength
+made from **lamin**, which primarily scaffolds the nuclear envelope, chromatin organization, and nuclear mechanical integrity

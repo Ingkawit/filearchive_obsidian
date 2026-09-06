@@ -1,0 +1,1 @@
+moves toward plus-end of [[microtubule]] (outward to periphery)

@@ -1,4 +1,6 @@
-key proteins: crosslinked elastin covered with sheath of microfibrils (made of fibrillin)
+characteristic
+- crosslinked elastin protein covered with sheath of microfibrils (made of fibrillin)
+- stain with eosin
 found in skin, blood vessels, lungs etc.
 
 malfunction:

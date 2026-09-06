@@ -1,4 +1,4 @@
-cell bio
+cell biology
 - **[[organelle]]**
 - **[[macromolecules]]**
 - **[[enzyme]]**
@@ -7,5 +7,6 @@ cell bio
 - **[[cell signaling]]**
 - **[[cell cycle]]**
 - **[[molecular technology]]**
+medical chemistry
 - **[[metabolism]]**
 
