@@ -29,10 +29,10 @@ types
 	- mucous connective tissue - present in umbilical cord
 		- Wharton's jell
 - connective tissue proper
-	- loose
-		- areolar tissue - found in [[mesentary]], lamina propia
+	- [[loose connective tissue]]
+		- [[areolar tissue]] - found in [[mesentary]], lamina propia
 		- [[adipose tissue]]
-		- reticular tissue - composed of [[reticular fiber]]
-	- dense
-		- regular - found in ligament, tendon, cornea
-		- irregular - found in skin, capsule of organ, periostem
+		- [[reticular tissue]] - composed of reticular fiber
+	- dense connective tissue
+		- [[dense regular connective tissue]] - ligament, tendon, cornea
+		- [[dense irregular connective tissue]] - found in skin, capsule of organ, periostem

@@ -2,4 +2,4 @@ occurs after DNA replication when two daughter cells are close together, one ser
 - [[DNA repair]]
 - [[meiotic crossover]] in meiosis ([[prophase I]])
 
-[[BRCA1/2]]
+[[BRCA1or2]]

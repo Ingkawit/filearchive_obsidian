@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e8e3444160c107f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fed state.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fed state"
-            }
-          },
-          {
-            "id": "9b4d627698e55b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metabolism/nucleic acid metabolism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nucleic acid metabolism"
-            }
-          },
-          {
-            "id": "d3427bdea2a56cc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mitosis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mitosis"
-            }
-          },
-          {
-            "id": "f7f0ac0934083181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE cell bio week 1 revision.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE cell bio week 1 revision"
-            }
-          },
-          {
             "id": "522666534879be09",
             "type": "leaf",
             "state": {
@@ -83,16 +27,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "connective tissue.md",
+                "file": "chromosome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "connective tissue"
+              "title": "chromosome"
+            }
+          },
+          {
+            "id": "b06e2ad67c2ecf02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "smooth muscle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "smooth muscle"
+            }
+          },
+          {
+            "id": "d2787507dee4594d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "integumentary system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "integumentary system"
+            }
+          },
+          {
+            "id": "55e8326c305aa8e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c7b8af847006d590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "homologous recombination.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "homologous recombination"
+            }
+          },
+          {
+            "id": "04e4c7511b39eb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rotator cuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rotator cuff"
+            }
+          },
+          {
+            "id": "e5a51f036c7aeb24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shoulder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shoulder"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "brca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,13 +174,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.1641845703125,
-    "collapsed": true
+    "width": 308.1641845703125
   },
   "right": {
     "id": "d37d8343c14fa720",
@@ -284,34 +306,47 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21635a56fac623f1",
+  "active": "859b5f7b13d3b0ef",
   "lastOpenFiles": [
-    "areolar tissue.md",
-    "connective tissue.md",
-    "reticular tissue.md",
-    "adipose tissue.md",
-    "adipocyte.md",
-    "reticular fiber.md",
-    "elastic fiber.md",
-    "collagen fiber.md",
-    "collagen.md",
-    "integumentary I and musculoskeletal I.md",
-    "macrophage.md",
-    "mononuclear phagocytic system.md",
-    "plasma cell.md",
-    "mast cell.md",
-    "fibroblast.md",
-    "mesenchymal cell.md",
+    "_files/_histoimage/location=\"urinary bladder\"-histo=\"urothelium\"-feature=\"umbrella cells,multilayered,lamina propria\"-stain=\"H&E\".png",
+    "_files/_histoimage/location=\"trachea\"-histo=\"pseudostratified ciliated columnar epithelium\"-feature=\"cilia,goblet cells,basement membrane\"-stain=\"H&E\".png",
+    "_files/_histoimage/location=\"testis\"-histo=\"seminiferous tubules\"-feature=\"spermatogenic epithelium,Sertoli cells,Leydig cells in interstitium\"-stain=\"H&E\".png",
+    "_files/_histoimage/location=\"stomach\"-histo=\"gastric foveolar mucosa\"-feature=\"surface mucous columnar cells,gastric pits,apical mucin\"-stain=\"H&E\".png",
+    "_files/_histoimage/location=\"spongy bone\"-histo=\"trabecular lamellar bone\"-feature=\"trabeculae,red marrow,sinusoids\"-stain=\"H&E\".jpg",
+    "_files/_histoimage/location=\"skin\"-histo=\"thin skin\"-feature=\"epidermis,keratin layer,dermis,hypodermis adipose\"-stain=\"H&E\".png",
+    "_files/_histoimage/location=\"skin\"-histo=\"thin skin epidermis and dermis\"-feature=\"keratinized stratified squamous epithelium,papillary and reticular dermis\"-stain=\"H&E\".jpg",
+    "_files/_histoimage/location=\"skin\"-histo=\"intradermal melanocytic nevus\"-feature=\"dermal nevus cell nests,maturation with depth,no junctional activity\"-stain=\"H&E\".jpeg",
+    "_files/_histoimage/location=\"skin hair follicle\"-histo=\"anagen and catagen follicle\"-feature=\"hair bulb,dermal papilla,inner and outer root sheath,club hair,sebaceous gland\"-stain=\"H&E\".webp",
+    "_files/_histoimage/location=\"skin epidermis\"-histo=\"keratinized stratified squamous epithelium\"-feature=\"stratum basale,spinosum,granulosum,corneum\"-stain=\"H&E\".jpg",
+    "_files/_histoimage/location=\"serosa\"-histo=\"mesothelium\"-feature=\"simple squamous epithelium,underlying loose connective tissue\"-stain=\"H&E\".png",
+    "_files/_histoimage",
+    "_files/untitled folder",
+    "rotator cuff.md",
+    "shoulder.md",
+    "trapezius.md",
     "integ ms/epithelial tissue.md",
-    "cytoskeleton.md",
-    "microtubule.md",
-    "endocrine gland.md",
+    "CLAUDE cell bio week 1 revision.md",
+    "mitosis.md",
+    "metabolism/nucleic acid metabolism.md",
+    "fed state.md",
+    "homologous recombination.md",
+    "DNA repair.md",
+    "BRCA1/2.md",
+    "BRCA1",
+    "hair.md",
+    "hair follicle.md",
+    "integumentary system.md",
+    "chromosome.md",
+    "connective tissue.md",
+    "mast cell.md",
+    "basement membrane.md",
+    "basal lamina.md",
+    "myoepithelial cell.md",
     "exocrine gland.md",
-    "muscular tissue.md",
-    "medical profession/curriculum.md",
-    "cell biolody and med chem.md",
-    "medical profession/intro med profession.md",
-    "covering epithelium.md",
+    "holocrine secretion.md",
+    "endocrine gland.md",
+    "skin appendage.md",
+    "nail.md",
     "integ ms",
     "metabolism",
     "_acd/AC79 MED BIOCHEM & NUTRI.txt",
@@ -319,17 +354,6 @@
     "_acd/AC81 Part II Metabolism.txt",
     "_acd/AC_CellBio_Midterm75.txt",
     "_acd/AC77 MIDTERM FCMB (rearranged by MDCU78).txt",
-    "_acd/AC79 FCMB MIDTERM.txt",
-    "_acd/AC81 Part I Cell Biology.txt",
-    "_acd/ACtin80 Part II Metabolism.rtf",
-    "_files/molectech1.jpeg",
-    "Ink/Drawing/2026.8.25 - 9.28am.svg",
-    "Ink/Drawing/2026.8.24 - 19.23pm.svg",
-    "Ink/Drawing/2026.8.24 - 19.21pm.svg",
-    "Ink/Drawing/2026.8.24 - 14.02pm.svg",
-    "Ink/Drawing/2026.8.24 - 13.50pm.svg",
-    "Ink/Drawing/2026.8.24 - 19.32pm.svg",
-    "metabolism pathway.canvas",
-    "Screenshot 2026-08-11 at 7.03.24 PM.png"
+    "metabolism pathway.canvas"
   ]
 }

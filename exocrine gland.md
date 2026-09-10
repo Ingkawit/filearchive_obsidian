@@ -1,10 +1,17 @@
 
 
+structure
+- secretory portion
+	- tubular
+	- acinar/alveolar
+- excretory portion - duct
+	- simple (unbranched duct)
+	- compund (branched duct)
 
 means of secretion
-- merocrine (eccrine) - release only product via exocytosis
+- [[merocrine secretion]] (eccrine) - release only product via exocytosis
 	- eg. [[sweat gland]], [[pancreas]], [[mammary gland]]
-- apocrine - release product mixed with cytoplasm in vesicle
+- [[apocrine secretion]] - release product mixed with cytoplasm in vesicle
 	- eg. [[mammary gland]]
-- holocrine (involve [[apoptosis]]) - discharge all products
+- [[holocrine secretion]] (involve [[apoptosis]]) - discharge all products
 	- eg. [[sebaceous gland]]

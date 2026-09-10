@@ -25,32 +25,26 @@
 #### classification
 - [[covering epithelium]]
 	- ##### simple (1 layer)
-		- simple squamous
-		- simple cuboidal
-		- simple columnar
-		- pseudostratified
+		- simple squamous eg. alveoli, capillary
+		- simple cuboidal eg. kidney, ducts
+		- simple columnar eg. instestinal lining
+		- pseudostratified 
 	- ##### stratified (many layers)
 		- stratified squamous
 		- stratified cuboidal
 		- stratified columnar
-		- transitional
-- glandular epithelium
-	 - [[endocrine gland]]
-		- secretory
-	- [[exocrine gland]]
-		- excretory
-			- simple (unbranched duct)
-			- compund (branched duct)
-		- secretory
-			- tubular
-			- acinar/alveolar
+		- transitional or pseudostratified , found in urinary bladder
+- **glandular epithelium**
+	- [[endocrine gland]] - secrete directly into blood
+	- [[exocrine gland]] - secrete via duct
 
-special epithelium
+**special epithelium**
 - olfactory epithelium
 - taste bud
 - organ of Corti
-- rods and cons in retina
-- macula, utricle,  crista ampullaris
+- rods and cones in retina
+- macula, utricle, crista ampullaris
+- [[myoepithelial cell]]
 
 epithelioid tissue
 
